@@ -11,6 +11,6 @@ trained_in = [🇰🇷🇺🇸🇯🇵🇹🇭🇨🇳🇭🇰🇹🇼🇲🇴�
 
 -----------------
 
-If you have any request or question, please contact me through "hahak2242@likelion.org"
+If you have any request or question, please contact me through "hahak2242@gmail.com"
 
 HakeoungLee.github.io
