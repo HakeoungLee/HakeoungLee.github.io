@@ -51,9 +51,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  hide                   : true #false (default)
+search                   : true #false (default)
+search_full_content      : true #false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -86,9 +86,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-NWZF7S30GL"
     anonymize_ip         : # true, false (default)
 
 
@@ -96,9 +96,9 @@ analytics:
 author:
 #   name             : "Your Name"
 #   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : "I am an **amazing** person."
+  bio              : "UT Austin Ph.D. Student in STEM Education"
   location         : "Texas, U.S."
-  email            : "hahak2242@gmail.com"
+  email            : #"hahak2242@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -208,7 +208,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
