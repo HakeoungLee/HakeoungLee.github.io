@@ -1,2 +1,1 @@
-# HakeoungLee.github.io
-:triangular_ruler: Hannah's Blog
+:triangular_ruler: https://hakeounglee.github.io
