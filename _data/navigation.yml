@@ -10,3 +10,33 @@
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: MY LIFE
+    children:
+      - title: "Ph.D. Journey"
+        url: /docs/phdjourney/
+      - title: "Texas"
+        url: /docs/texas/
+      - title: "South Korea"
+        url: /docs/southkorea/
+      - title: "Travel"
+        url: /docs/travel/
+      - title: "Thoughts"
+        url: /docs/thoughts/
+
+
+  - title: TECH
+    children:
+      - title: "Machine Learning"
+        url: /docs/machinelearning/
+      - title: "Deep Learning"
+        url: /docs/deeplearning/
+      - title: "Python"
+        url: /docs/python/
+      - title: "WEB"
+        url: /docs/web/
+      - title: "Github"
+        url: /docs/github/
+      - title: "Etc"
+        url: /docs/etc/
