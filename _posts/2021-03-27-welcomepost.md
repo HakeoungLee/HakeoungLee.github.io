@@ -1,5 +1,7 @@
 ---
 layout: single
+comments: true
+
 title:  "Welcome to Hannah's Blog!"
 ---
 
