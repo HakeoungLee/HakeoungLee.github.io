@@ -7,6 +7,6 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.dl %}
+{% assign posts = site.categories.DeepLearning %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 
