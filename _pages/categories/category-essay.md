@@ -7,6 +7,6 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.essay %}
+{% assign posts = site.categories.Essay %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 
