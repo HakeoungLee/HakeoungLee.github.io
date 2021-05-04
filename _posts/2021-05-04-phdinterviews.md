@@ -6,6 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "paw"
 categories:
   - Essay
+  - PhD
 
 
 title:  "미국 유학 면접(Ph.D. Interviews)"
