@@ -74,7 +74,7 @@
       
       <!--전체 글 수-->
       <li>
-            <sapn style="font-size:15px">📂 Total Posts: {{sum}}</style>
+            <p><span style="font-size:15px">📂 Total Posts: {{sum}}</style></p>
       </li>
   </ul>
 </nav>
