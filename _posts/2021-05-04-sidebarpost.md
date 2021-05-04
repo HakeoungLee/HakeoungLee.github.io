@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "paw"
 categories:
-  - Extras
+  - Github
 
 title:  "Building Sidebar Categories in Github Page"
 ---
