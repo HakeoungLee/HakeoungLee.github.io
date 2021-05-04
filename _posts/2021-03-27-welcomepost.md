@@ -1,5 +1,4 @@
 ---
-layout: default
 comments: true
 
 title:  "Welcome to Hannah's Blog!"
