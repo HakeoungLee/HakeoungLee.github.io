@@ -10,7 +10,7 @@ categories:
 title:  "How to connect Github Page with Google Analytics"
 ---
 
-# GA4   
+# Google Analytics 4 (GA4)   
 
 Google offers Google Analytics for free. You can track and analyze your webpage using Google Analytics.
 This is also important when you are trying to connect your page with any ad.
@@ -40,10 +40,10 @@ analytics:
 ```    
 
 
-In your '/_includes/analytics-providers/google-gtag.html' file, add a line of code written below:
+In your `/_includes/analytics-providers/google-gtag.html` file, add a line of code written below:
 
 ```
-gtag('config', '{{ site.analytics.google.stream_id }}');
+gtag('config', '{{ site.analytics.google.measurement_id }}');
 ```
    
    
