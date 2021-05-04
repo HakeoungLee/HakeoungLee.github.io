@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hannah"
+#   name             : "Hannah"
 #   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "UT Austin Ph.D. Student in STEM Education"
   location         : "Texas, U.S."
