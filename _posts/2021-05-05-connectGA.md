@@ -40,11 +40,9 @@ analytics:
 ```    
 
 
-In your `/_includes/analytics-providers/google-gtag.html` file, add a line of code written below:
+In your `/_includes/analytics-providers/google-gtag.html` file, add a line of code written below:   
 
-```
-gtag('config', '{{ site.analytics.google.measurement_id }}');
-```
+<img width="546" alt="스크린샷 2021-05-05 오전 11 53 05" src="https://user-images.githubusercontent.com/81342538/117092174-7ab13480-ad98-11eb-9180-270f2b828adf.png">   
+
    
-   
-If you have any questions, feel free to comment below!
+If you have any questions, please feel free to comment below!
