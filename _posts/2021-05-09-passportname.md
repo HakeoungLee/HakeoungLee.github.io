@@ -7,7 +7,7 @@ toc_icon: "paw"
 categories:
   - Extras
 
-title:  "한국 여권에 영문 성명 넣기 (middle name 병기 표기하는 방법)"
+title:  "한국 여권에 영문 성명 넣기 (middle name 병기)"
 ---
 
 한국 여권에 주민등록상에 표기되지 않은 영문 성명을 병기하여 표기하는 것이 가능할까? 결론적으로 말하면 가능하다.   
