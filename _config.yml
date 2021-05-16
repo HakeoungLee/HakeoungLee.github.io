@@ -20,7 +20,7 @@ title                    : "Hakeoung Hannah Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hakeoung Hannah Lee"
-description              : "water to grow"
+description              : "Every plant needs water to grow."
 url                      : "https://HakeoungLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HakeoungLee/githubblogcomments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
