@@ -44,6 +44,13 @@
         <span class="nav__sub-title">TECH</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Python" %}
+                        <li><a href="/categories/Python" class="">Python ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>    
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "MachineLearning" %}
                         <li><a href="/categories/ml" class="">Machine Learning ({{category[1].size}})</a></li>
                     {% endif %}
@@ -60,6 +67,13 @@
                 {% for category in site.categories %}
                     {% if category[0] == "WEB" %}
                         <li><a href="/categories/web" class="">WEB ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>    
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Django" %}
+                        <li><a href="/categories/Django" class="">Django ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>    
