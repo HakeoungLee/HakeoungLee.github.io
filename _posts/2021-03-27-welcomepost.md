@@ -4,7 +4,7 @@ comments: true
 title:  "Welcome to Hannah's Blog!"
 ---
 
-**Hello world**, this is my first blog post.
+**Hello world**
 I am a PhD Student in Edu, Tech, AI, HCI, CT, Psyc
 
 trained_in = [🇰🇷🇺🇸🇯🇵🇹🇭🇨🇳🇭🇰🇹🇼🇲🇴🇬🇺🇪🇹🇻🇳🇺🇬🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿🇫🇷🇧🇪🇺🇬🇸🇬🇲🇾🇦🇺🇳🇿]
