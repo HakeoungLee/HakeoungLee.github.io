@@ -27,8 +27,8 @@ It provides an enjoyable environment with the various functions below:
 Up to 25 people can use Gathertown for free. If you have more than 25 people, you can choose from three plans that offer different costs and capabilities.   
 
 You can decorate your space and make your own avatar in Gather.town. Gather.town is also a type of Metabus that provides experiences in a virtual environment similar to reality.   
-<img width="548" alt="Screen Shot 2021-06-24 at 1 10 50 PM" src="https://user-images.githubusercontent.com/81342538/123201500-c5744080-d4ed-11eb-9e3c-fc1b80b41604.png">
-<img width="695" alt="Screen Shot 2021-06-24 at 1 11 26 PM" src="https://user-images.githubusercontent.com/81342538/123201502-c60cd700-d4ed-11eb-9afc-9a1a6d8c0cf0.png">
+<img width="500" alt="Screen Shot 2021-06-24 at 1 10 50 PM" src="https://user-images.githubusercontent.com/81342538/123201500-c5744080-d4ed-11eb-9e3c-fc1b80b41604.png">
+<img width="500" alt="Screen Shot 2021-06-24 at 1 11 26 PM" src="https://user-images.githubusercontent.com/81342538/123201502-c60cd700-d4ed-11eb-9afc-9a1a6d8c0cf0.png">
 
 You can try out the office demo following the Gather.town homepage link below:
 https://gather.town/
