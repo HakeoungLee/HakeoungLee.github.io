@@ -20,7 +20,6 @@ It provides an enjoyable environment with the various functions below:
 - Share board and documents
 - Find a user's location (following the avatar)
 - Send a note
-- Link External
 - Games (Tetris, Dice, etc.)
 - Decorate space (Mapmaker)   
 
