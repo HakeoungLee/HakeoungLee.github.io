@@ -9,7 +9,7 @@ categories:
 
 title:  "Virtual Office Gather.town (Metabus Service)"
 ---
-## Gather.town
+# Gather.town
 
 Gather.town is an online platform that allows users to meet, communicate and collaborate with each other in a virtual space where they can experience something similar to reality.   
 (There is only an English version now.)   
