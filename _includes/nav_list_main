@@ -86,8 +86,8 @@
             </ul>   
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "TodayTech" %}
-                        <li><a href="/categories/cat" class="">Today's Tech Issues ({{category[1].size}})</a></li>
+                    {% if category[0] == "TechToday" %}
+                        <li><a href="/categories/cat" class="">Tech Today ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
