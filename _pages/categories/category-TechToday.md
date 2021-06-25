@@ -1,7 +1,7 @@
 ---
 title: "Tech Today"
 layout: archive
-permalink: categories/TechToday
+permalink: categories/techtoday
 author_profile: true
 sidebar_main: true
 ---
